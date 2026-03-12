@@ -118,7 +118,7 @@ allowing Zamakan to grow into a broader interactive cultural exploration experie
 Watch the gameplay demonstration of Zamakan to see the cooperative puzzle mechanics and exploration system in action.
 
 ▶️ **Demo Video**  
-(Add your demo video link here)
+(https://drive.google.com/drive/folders/1xy54fHSJoL0TDj6MyDpE5xIO5JmMoQzY?usp=share_link)
 
 The demo showcases:
 
