@@ -133,19 +133,19 @@ The demo showcases:
 
 ### Puzzle Arena
 <p align="center">
-<img src="screenshots/puzzle-arena.png" width="600">
+<img src="screenshots/puzzle-arena.JPG" width="600">
 </p>
 
 ### Environments
 <p align="center">
-<img src="screenshots/sultan-environment.png" width="320">
-<img src="screenshots/najd-environment.png" width="320">
+<img src="screenshots/sultan-environment.JPG" width="320">
+<img src="screenshots/najd-environment.JPG" width="320">
 </p>
 
 ### Puzzle Interaction
 <p align="center">
-<img src="screenshots/sultan-puzzle.png" width="320">
-<img src="screenshots/najd-puzzle.png" width="320">
+<img src="screenshots/sultan-puzzle.JPG" width="320">
+<img src="screenshots/najd-puzzle.JPG" width="320">
 </p>
 
 ---
