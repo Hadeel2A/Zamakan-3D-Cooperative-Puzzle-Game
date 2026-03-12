@@ -157,24 +157,6 @@ The demo showcases:
 
 ---
 
-## 🧩 Game Architecture
-
-Zamakan is structured using a modular architecture within the Unity game engine. The core systems include:
-
-**Puzzle System**  
-Handles puzzle activation, sequential progression, and interaction with puzzle stones.
-
-**Timeline Interaction System**  
-Manages the connection between the past and present environments, allowing players to exchange information across timelines.
-
-**Environment Interaction System**  
-Controls player interactions with environmental objects, symbols, and clues within the village.
-
-**Player Role System**  
-Separates gameplay responsibilities between Sultan (Past) and Najd (Present) to reinforce cooperative gameplay mechanics.
-
----
-
 ## 🛠 Technologies Used
 
 - Unity Game Engine
@@ -208,10 +190,11 @@ Separates gameplay responsibilities between Sultan (Past) and Najd (Present) to 
 - Enhance environmental detail and visual immersion
 
 ---
+## 👩‍💻 Development Team
 
-## 👩‍💻 Author
+Zamakan was developed as a collaborative team project by:
 
-**Hadeel Almutairi**
-
-IT Student – Networks & IoT Engineering  
-King Saud University
+- Rahaf Alfantoukh
+- Hadeel Almutairi
+- Fatmah Alsufaian
+- Maha Alswed
