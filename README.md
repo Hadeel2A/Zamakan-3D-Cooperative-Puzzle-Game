@@ -14,7 +14,32 @@ Players control two characters who exist in different time periods within the sa
 Zamakan combines **exploration, storytelling, and puzzle-solving** to create a gameplay experience that introduces players to Saudi cultural heritage through a modern digital medium.
 
 ---
+## Story Introduction 🎴
 
+The story of Zamakan begins with illustrated manga-style panels that introduce the mysterious artifact connecting the past and the present.
+
+The panels present the two main characters:
+
+- **Sultan**, who is transported into the past after activating an ancient stone.
+- **Najd**, who remains in the present exploring the archaeological ruins.
+
+Through these narrative panels, players are introduced to the world of Zamakan before entering the interactive gameplay experience.
+
+<p align="center">
+
+<img src="screenshots/manga-panel-1.png" width="220"/>
+<img src="screenshots/manga-panel-2.png" width="220"/>
+<img src="screenshots/manga-panel-3.png" width="220"/>
+
+<br>
+
+<img src="screenshots/manga-panel-4.png" width="220"/>
+<img src="screenshots/manga-panel-5.png" width="220"/>
+
+</p>
+
+
+---
 ## Game Concept
 
 The core concept of Zamakan revolves around **cooperative gameplay across two timelines**.
