@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/N2Studio/Scenes/N2Studio_Demo.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 3b6273f037b0c408ba44d9d5a8673278
+  - enabled: 1
+    path: Assets/Scenes/choose character.unity
+    guid: 844185902f1b6494283cdf887f2871f2
+  - enabled: 1
+    path: Assets/Scenes/NajdScene.unity
+    guid: de62adaf4c2330545be66b664c7dbafc
+  - enabled: 1
+    path: Assets/Scenes/MangaIntro.unity
+    guid: 694f1a7dcb7e8401484119cfb155cee5
+  - enabled: 1
+    path: Assets/Scenes/NajdAlfawPuzzleScene.unity
+    guid: 56ad3c0621027644cad147d985aaf5b9
+  - enabled: 1
+    path: Assets/Scenes/NajdAlfawPuzzle2.unity
+    guid: ecdc6c9f194d70a4dbb600349a18ee2b
+  - enabled: 1
+    path: Assets/Scenes/SultanAlfawPuzzleScene.unity
+    guid: 5b06feefc42ca4f63985b39e2754cb00
+  - enabled: 1
+    path: Assets/Scenes/SultanScene.unity
+    guid: e78ac8650a102450a9a6a4a1ac2594cc
+  - enabled: 1
+    path: Assets/Scenes/Sultan2AlfawPuzzleScene.unity
+    guid: c375cef1ececd4bfd8b7dab39a418a15
+  - enabled: 1
+    path: Assets/Scenes/AlFawEndScene 1.unity
+    guid: e4975aa08a1e9467baef0728eddf999d
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
