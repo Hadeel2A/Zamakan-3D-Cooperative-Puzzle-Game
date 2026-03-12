@@ -129,17 +129,23 @@ The demo showcases:
 - Environmental storytelling elements
 
 ---
+## 📷 Gameplay Screenshots
 
-## 📷 Screenshots
-
+### Puzzle Arena
 <p align="center">
-  <img src="screenshots/puzzle-arena.png" width="45%">
-  <img src="screenshots/past-scene.png" width="45%">
+<img src="screenshots/puzzle-arena.png" width="600">
 </p>
 
+### Environments
 <p align="center">
-  <img src="screenshots/present-scene.png" width="45%">
-  <img src="screenshots/puzzle-ui.png" width="45%">
+<img src="screenshots/sultan-environment.png" width="320">
+<img src="screenshots/najd-environment.png" width="320">
+</p>
+
+### Puzzle Interaction
+<p align="center">
+<img src="screenshots/sultan-puzzle.png" width="320">
+<img src="screenshots/najd-puzzle.png" width="320">
 </p>
 
 ---
