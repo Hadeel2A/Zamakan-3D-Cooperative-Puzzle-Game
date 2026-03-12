@@ -124,7 +124,7 @@ Watch the gameplay demonstration of **Zamakan** to explore the cooperative puzzl
 </p>
 
 <p align="center">
-  <a href="PUT_YOUR_VIDEO_LINK_HERE"><strong>▶ Watch the Demo Video</strong></a>
+  <a href="https://drive.google.com/file/d/1vXrIstgIp_lUeRmbCLWIjKoayOpTjrVF/view?usp=share_link"><strong>▶ Watch the Demo Video</strong></a>
 </p>
 
 The demo showcases:
